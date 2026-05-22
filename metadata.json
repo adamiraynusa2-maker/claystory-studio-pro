@@ -1,0 +1,6 @@
+{
+  "name": "ClayStory Studio Pro",
+  "description": "Premium full-stack AI Storyboarding and Narration platform to generate, voice, and render gorgeous Clay Animation-style scripts, thumbnails, and high-viral shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
